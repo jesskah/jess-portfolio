@@ -60,7 +60,7 @@ function App() {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <img 
-                src="https://www.sequoiacap.com/wp-content/uploads/sites/6/2021/11/Jess-Lee-index-2.jpg?resize=880,880" 
+                src="/Jess-Lee-index-2.webp"
                 alt="Jess Lee"
               />
             </motion.div>
